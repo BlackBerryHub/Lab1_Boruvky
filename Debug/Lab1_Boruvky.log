@@ -1,0 +1,6 @@
+﻿  Lab1_Boruvky.cpp
+C:\Users\marat\source\repos\Lab1_Boruvky\Lab1_Boruvky.cpp(107,37): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\marat\source\repos\Lab1_Boruvky\Lab1_Boruvky.cpp(157,13): warning C4101: a: неиспользованная локальная переменная
+C:\Users\marat\source\repos\Lab1_Boruvky\Lab1_Boruvky.cpp(157,16): warning C4101: b: неиспользованная локальная переменная
+C:\Users\marat\source\repos\Lab1_Boruvky\Lab1_Boruvky.cpp(157,19): warning C4101: c: неиспользованная локальная переменная
+  Lab1_Boruvky.vcxproj -> C:\Users\marat\source\repos\Lab1_Boruvky\Debug\Lab1_Boruvky.exe
